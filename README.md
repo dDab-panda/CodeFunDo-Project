@@ -1,4 +1,4 @@
-# Idea for codefundo++
+# Idea for CodeFunDo++
 
 ## Calamity Map
 An app that shows a map of places with people who are trapped/unsafe, safe and aid camps around you in calamities like an Earthquake or a Flood.
